@@ -11,5 +11,5 @@ Play it on Github Pages: https://afbcary.github.io/space-trash/
 * New trash spawns from the edges of the screen
 * Surviving longer results in a higher score
 
-![Start Screen](https://github.com/Afbcary/space-trash/raw/main/images/start_screen.png)
-![In Game](https://github.com/Afbcary/space-trash/raw/main/images/in_game.png)
+![Start Screen](https://github.com/Afbcary/space-trash/raw/master/images/start_screen.png)
+![In Game](https://github.com/Afbcary/space-trash/raw/master/images/in_game.png)
